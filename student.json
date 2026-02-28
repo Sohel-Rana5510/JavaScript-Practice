@@ -1,0 +1,22 @@
+[
+    {
+"id" : 1001, 
+"name" : "Sohel Rana",
+"Department" : "CSE",
+"university" : " Primeasia University"
+},
+
+{
+"id" : 1002, 
+"name" : "Rahim Islam",
+"Department" : "EEE",
+"university" : " Primeasia University"
+},
+{
+"id" : 1003, 
+"name" : " Rana",
+"Department" : "ME",
+"university" : " Primeasia University"
+}
+
+]
